@@ -1,0 +1,18 @@
+current directory: /home/seanrails/environment/toy_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/home/seanrails/.asdf/installs/ruby/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/seanrails/environment/toy_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240413-509167-wlfbxc sitelibdir\=./.gem.20240413-509167-wlfbxc clean
+
+current directory: /home/seanrails/environment/toy_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240413-509167-wlfbxc sitelibdir\=./.gem.20240413-509167-wlfbxc
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/seanrails/environment/toy_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240413-509167-wlfbxc sitelibdir\=./.gem.20240413-509167-wlfbxc install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20240413-509167-wlfbxc/skiptrace/internal
+
+current directory: /home/seanrails/environment/toy_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240413-509167-wlfbxc sitelibdir\=./.gem.20240413-509167-wlfbxc clean
